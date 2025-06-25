@@ -7,3 +7,6 @@ Daftar Kelompok
 -Dwipa Barkah Setiawan – 2702326864
 
 Project Kelompok 5:Pendeteksi Helm Pengendara motor
+
+
+Link Google Colab:https://colab.research.google.com/drive/1BnfwNL9KwKZxmXXzy62hKKLnJfVl4Wh2?usp=sharing
